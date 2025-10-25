@@ -1,1 +1,0 @@
-print("rohil is gay")
